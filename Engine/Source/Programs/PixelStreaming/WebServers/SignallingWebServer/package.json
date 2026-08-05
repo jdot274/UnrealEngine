@@ -4,7 +4,7 @@
   "description": "cirrus web server",
   "dependencies": {
     "bcrypt": "^2.0.1",
-    "express": "^4.16.2",
+    "express": "^4.22.2",
     "express-session": "^1.15.6",
     "helmet": "^3.9.0",
     "passport": "^0.4.0",
