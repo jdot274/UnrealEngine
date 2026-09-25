@@ -4,7 +4,7 @@
   "description": "Cirrus servers connect to the Matchmaker which redirects a browser to the next available Cirrus server",
   "dependencies": {
     "express": "^4.16.2",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.5.1",
     "yargs": "^10.1.1"
   }
 }
